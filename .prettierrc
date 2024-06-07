@@ -6,7 +6,8 @@
         "javascriptreact"
     ],
     "printWidth": 80,
-    "useTabs": false,
+    "useTabs": 
+    false,
     "tabWidth": 2,
     "jsxSingleQuote": true,
     "bracketSpacing": true,
